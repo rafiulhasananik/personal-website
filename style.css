@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: purple;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;   
+}
+.header{
+    background: url(personal-website/header-bg.png);
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    padding: 20px 10px;
+    border-radius: 5px;
+    color: white;
+}
