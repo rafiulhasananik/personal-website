@@ -21,11 +21,51 @@ h1{
     background: url(personal-website/header-bg.png);
 }
 section{
-    height: 500px;
+    height:700px;
 }
-.button{
+.link-button{
     text-decoration: none;
+    background-color: palevioletred;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.mid{
+    background-image: url(personal-website/biography-bg.png);
+}
+.last img{
+        width: 80%;
+}
+.center{
+    text-align: center;
+    font-size: 50px;
+} 
+.pic{
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.last{
+    background-image: url(personal-website/latest-work-bg.png);
+}
+.footer{
+    text-align: center;
+}
+.lang{
+    text-align: center;
     padding: 20px 10px;
     border-radius: 5px;
     color: white;
+    background-repeat: none;
+}
+.lang{
+    text-align: center;
+    background-color: palevioletred;
+    margin: 100px 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.footer-bg{
+    background-image: url(personal-website/footer-bg.png);
 }
