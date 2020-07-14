@@ -62,10 +62,11 @@ section{
 .lang{
     text-align: center;
     background-color: palevioletred;
-    margin: 100px 20px;
-    padding: 10px 20px;
+    margin: 100px 50px;
+    padding: 40px 20px;
     border-radius: 5px;
 }
 .footer-bg{
     background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
 }
